@@ -1,0 +1,11 @@
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\bin\Debug\netcoreapp2.0\designpatterns.deps.json
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\bin\Debug\netcoreapp2.0\designpatterns.runtimeconfig.json
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\bin\Debug\netcoreapp2.0\designpatterns.runtimeconfig.dev.json
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\bin\Debug\netcoreapp2.0\designpatterns.dll
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\bin\Debug\netcoreapp2.0\designpatterns.pdb
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.csprojResolveAssemblyReference.cache
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.csproj.CoreCompileInputs.cache
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.AssemblyInfoInputs.cache
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.AssemblyInfo.cs
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.dll
+E:\Programming\Playground\DesignPatterns\design-patterns\designpatterns\obj\Debug\netcoreapp2.0\designpatterns.pdb
